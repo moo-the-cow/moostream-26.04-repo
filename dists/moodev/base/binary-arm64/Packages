@@ -1,0 +1,60 @@
+Package: moo-configs-26.04
+Version: 1.0.2
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-configs-26.04_1.0.2_arm64.deb
+Size: 64296
+MD5sum: be93b317e2ebf9aab39c09ba24d9f282
+SHA1: 5b3f084d96b89fb8f46ee00b3991cdffa6d0fadb
+SHA256: 259725a7854d7979d85f19ecb51ea1cbf4e95d6373066c1eadaba2efaf8b5c57
+Homepage: https://github.com/moo-the-cow
+Description: Config files
+
+Package: moo-gst-app
+Version: 1.0.0
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-gst-app_1.0.0_arm64.deb
+Size: 10496
+MD5sum: 789984affe0a70951b90ca71f541f698
+SHA1: ff6296b65ba10e3d154ec1675528c7e915b51a0a
+SHA256: 47c5da0d1af2f1a36d8da519a3f24cf926e076712f73befedd36186ab5fdd83f
+Homepage: https://github.com/moo-the-cow
+Description: GST APP to handle pipelines
+
+Package: moo-libraries-26.04
+Version: 1.0.0
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-libraries-26.04_1.0.0_arm64.deb
+Size: 764
+MD5sum: 1d819b0d867a22936718fccfd5a7fde3
+SHA1: bf9828c255b9d45f8eea5e2eef48168bb3991f3a
+SHA256: 8af959434dbcbf99cf77844936f89efeae847450c72af7e0aeb998922374a2ec
+Homepage: https://github.com/moo-the-cow
+Description: Library files for Ubuntu 24.04
+
+Package: moo-rist
+Version: 1.0.0
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-rist_1.0.0_arm64.deb
+Size: 142936
+MD5sum: 94496401ceb7e2a61cc680c86f13e900
+SHA1: 24a62e758ed07abfbaf42f5c5ef472c5ef6d9602
+SHA256: 02abdddd0191486b377e5c835456cd2a9a42f6d6da3a86396b6cb94b52194b94
+Homepage: https://github.com/moo-the-cow
+Description: RIST related files
+
+Package: moowss-client
+Version: 1.0.14
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moowss-client_1.0.14_arm64.deb
+Size: 19216108
+MD5sum: abcc20ea02334c4e1fb3af87b276743e
+SHA1: 0cfab60a5c7fb7390f3d8c54605ef74ec1ebf095
+SHA256: cad5d96bf467baadd1f381f3334b0010b5a3806b360c7e1de8ca7216a4e0801d
+Homepage: https://github.com/moo-the-cow
+Description: Streaming UI Websocket Client in dotnet core
+
